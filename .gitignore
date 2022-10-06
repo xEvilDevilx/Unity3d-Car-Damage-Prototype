@@ -1,0 +1,14 @@
+[Bb]uild/
+CarDamagePrototype/[Ll]ibrary/
+CarDamagePrototype/[Tt]emp/
+CarDamagePrototype/[Oo]bj/
+CarDamagePrototype/[Bb]uild/
+CarDamagePrototype/[Bb]uilds/
+CarDamagePrototype/[Uu]nityGenerated/
+
+CarDamagePrototype/.vs/
+CarDamagePrototype/Logs/
+
+CarDamagePrototype/*.vsconfig
+CarDamagePrototype/*.sln
+CarDamagePrototype/*.csproj
